@@ -94,6 +94,7 @@ html
 .button a
 {
    color: white;
+      text-decoration: none;
 }
 /* .black-color {
   height: 130px;
